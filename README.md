@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alpha-ceph24
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning css tricks and web d python ml
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning CSS tricks, Web D, Python, ML
 - 📫 How to reach me dm me @b_vaishnavii in twitter
 
 <!---
