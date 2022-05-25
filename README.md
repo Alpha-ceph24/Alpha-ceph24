@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alpha-ceph24
-- 👀 I’m interested in Web Dev
+- 👀 I’m interested in Data Sciemce
 - 🌱 I’m currently learning CSS tricks, Web D, Python, ML
 - 📫 How to reach me dm me @b_vaishnavii in twitter
 
